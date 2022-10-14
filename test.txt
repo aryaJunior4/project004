@@ -1,2 +1,1 @@
-this is text file
-Changes added as part of feature/1001
+
